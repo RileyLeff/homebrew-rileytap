@@ -1,8 +1,8 @@
 class Dirgrab < Formula
   desc "Grab the files that matter from a directory or Git repo and concatenate them"
   homepage "https://github.com/RileyLeff/dirgrab"
-  url "https://github.com/RileyLeff/dirgrab/archive/refs/tags/v0.3.2.tar.gz"
-  sha256 "91c2ef6f73594454e97d6b22446c8f42b9f1d7484cbfcf2ec3df51f58503af79"
+  url "https://github.com/RileyLeff/dirgrab/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "66ea25c085ca054179ab1035edbf2091928098ff5a6dd240b153632b23dab9e0"
   license any_of: ["Apache-2.0", "MIT"]
   head "https://github.com/RileyLeff/dirgrab.git", branch: "main"
 
